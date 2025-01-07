@@ -20,7 +20,7 @@ public class Main {
         System.out.println("---------    5  circle -----------");
         System.out.println(area(5.0));
         System.out.println(area(-1));
-
+        System.out.println("hello deneme");
     }
 
     public static boolean shouldWakeUp(boolean isBarking, int clock) {
